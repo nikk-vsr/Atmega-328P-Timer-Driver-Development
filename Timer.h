@@ -1,4 +1,10 @@
-void Tmr_Init(const Timerconfig_t*);
-Tmr_Control()
-Tmr_IntervalSet()
-Tmr_ModeSet()
+
+
+
+void Tmr_Init(const Timerconfig_t *Config);
+void Tmr_Control()
+void Tmr_IntervalSet()
+void Tmr_ModeSet()
+
+  
+  
